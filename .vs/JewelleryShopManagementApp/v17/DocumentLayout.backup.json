@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|e:\\hemant 4.2\\.net win forms\\jewelleryshopmgmt\\jewelleryshopmanagementapp\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\printbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:printbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|e:\\hemant 4.2\\.net win forms\\jewelleryshopmgmt\\jewelleryshopmanagementapp\\printbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:printbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\printbill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:printbill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\bill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:bill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,24 +55,12 @@
       "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:customer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\bill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:bill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\product.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:product.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A41EDB8F-11A3-47F1-840A-AADEFF5E791A}|JewelleryShopManagementApp.csproj|E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 444,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
@@ -82,20 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Login.cs",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
               "ToolTip": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Login.cs",
               "RelativeToolTip": "Login.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAADwvyQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:17:49.447Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -108,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Login.Designer.cs",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Login.Designer.cs",
               "RelativeDocumentMoniker": "Login.Designer.cs",
@@ -121,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Customer.cs [Design]",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Customer.cs",
               "RelativeDocumentMoniker": "Customer.cs",
@@ -134,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Product.cs [Design]",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
@@ -147,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Customer.Designer.cs",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Customer.Designer.cs",
               "RelativeDocumentMoniker": "Customer.Designer.cs",
@@ -161,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Customer.cs",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Customer.cs",
               "RelativeDocumentMoniker": "Customer.cs",
@@ -175,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "App.config",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -189,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
@@ -203,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Product.Designer.cs",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Product.Designer.cs",
               "RelativeDocumentMoniker": "Product.Designer.cs",
@@ -217,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bill.cs [Design]",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Bill.cs",
               "RelativeDocumentMoniker": "Bill.cs",
@@ -230,13 +242,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Bill.cs",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Bill.cs",
               "RelativeDocumentMoniker": "Bill.cs",
               "ToolTip": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Bill.cs",
               "RelativeToolTip": "Bill.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAjwG4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCMAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T05:18:15.719Z",
               "IsPinned": true,
@@ -244,15 +256,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Bill.Designer.cs",
               "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Bill.Designer.cs",
               "RelativeDocumentMoniker": "Bill.Designer.cs",
               "ToolTip": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\Bill.Designer.cs",
               "RelativeToolTip": "Bill.Designer.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAnwGgAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T05:32:49.554Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintBill.cs [Design]",
+              "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\PrintBill.cs",
+              "RelativeDocumentMoniker": "PrintBill.cs",
+              "ToolTip": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\PrintBill.cs [Design]",
+              "RelativeToolTip": "PrintBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T06:23:42.125Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintBill.cs",
+              "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\PrintBill.cs",
+              "RelativeDocumentMoniker": "PrintBill.cs",
+              "ToolTip": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\PrintBill.cs",
+              "RelativeToolTip": "PrintBill.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T06:57:23.109Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrintBill.Designer.cs",
+              "DocumentMoniker": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\PrintBill.Designer.cs",
+              "RelativeDocumentMoniker": "PrintBill.Designer.cs",
+              "ToolTip": "E:\\HEMANT 4.2\\.Net Win Forms\\JewelleryShopMgmt\\JewelleryShopManagementApp\\PrintBill.Designer.cs",
+              "RelativeToolTip": "PrintBill.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv1kAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:45:21.905Z",
               "IsPinned": true
             },
             {

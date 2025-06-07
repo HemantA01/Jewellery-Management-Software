@@ -97,3 +97,4 @@ E:\HEMANT 4.2\.Net Win Forms\JewelleryShopMgmt\JewelleryShopManagementApp\bin\De
 E:\HEMANT 4.2\.Net Win Forms\JewelleryShopMgmt\JewelleryShopManagementApp\obj\Debug\Jeweller.B9BB87A9.Up2Date
 E:\HEMANT 4.2\.Net Win Forms\JewelleryShopMgmt\JewelleryShopManagementApp\obj\Debug\JewelleryShopManagementApp.Product.resources
 E:\HEMANT 4.2\.Net Win Forms\JewelleryShopMgmt\JewelleryShopManagementApp\obj\Debug\JewelleryShopManagementApp.Bill.resources
+E:\HEMANT 4.2\.Net Win Forms\JewelleryShopMgmt\JewelleryShopManagementApp\obj\Debug\JewelleryShopManagementApp.PrintBill.resources

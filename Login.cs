@@ -29,7 +29,8 @@ namespace JewelleryShopManagementApp
             {
                 MessageBox.Show("Missing information to Login");
             }
-            else if (txtUsername.Text == "Admin" && txtPassword.Text == "Admin@123")
+            //else if (txtUsername.Text == "Admin" && txtPassword.Text == "Admin@123")
+            else if (txtUsername.Text == "1" && txtPassword.Text == "1")
             {
                 MessageBox.Show("Login Successful");
                 Customer obj = new Customer();

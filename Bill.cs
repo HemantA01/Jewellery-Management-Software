@@ -5,6 +5,7 @@ using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
+using System.Drawing.Text;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,21 +15,25 @@ namespace JewelleryShopManagementApp
 {
     public partial class Bill : Form
     {
+        public static DataGridView sharedDataGridView;
         public Bill()
         {
             InitializeComponent();
             DisplayBill();
             GetCustId();
             DisplayProduct();
+            sharedDataGridView = dataGvBill;
         }
         public readonly SqlConnection conn = new SqlConnection(ConfigurationManager.ConnectionStrings["JewelleryShopManagementApp.Properties.Settings.JewelMgmtDBConStr"].ToString());
 
+        
         private void DisplayBill()
         {
             try
             {
                 conn.Open();
-                string query = "select Id, BillId, Product, CustomerId, CustomerName, ProductQty, UnitPrice, TotalPrice, case IsActive when 1 then 'Active' else 'Inactive' end as IsActive from tblBill(nolock)";
+                string query = "select b.Id, b.BillId, b.Product, b.CustomerId, b.CustomerName,c.CustPhone as CustomerContact,  b.ProductQty, b.UnitPrice, b.TotalPrice, case b.IsActive when 1 then 'Active' else 'Inactive' end as IsActive from tblBill(nolock) b" +
+                    " inner join tblCustomer c(nolock) on b.CustomerId=c.CustId";
                 SqlDataAdapter sda = new SqlDataAdapter(query, conn);
                 DataTable dt = new DataTable();
                 sda.Fill(dt);
@@ -395,6 +400,14 @@ namespace JewelleryShopManagementApp
         private void cmbCustId_SelectionChangeCommitted(object sender, EventArgs e)
         {
             DisplayCustomerName();
+        }
+
+        private void btnPrint_Click(object sender, EventArgs e)
+        {
+
+            PrintBill pb1 = new PrintBill(dataGvBill);
+            
+            pb1.Show();
         }
 
         void UpdateProduct()
